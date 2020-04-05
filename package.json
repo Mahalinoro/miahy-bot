@@ -1,0 +1,17 @@
+{
+  "name": "miahy-bot",
+  "version": "1.0.0",
+  "description": "\"Chatbot on Mental Health\"",
+  "main": "index.js",
+  "repository": "https://github.com/Mahalinoro/miahy-bot.git",
+  "author": "Mahaly <m.razafiman@alustudent.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+ },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
